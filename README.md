@@ -1,3 +1,4 @@
+attention ce repo est juste là pour intro à Jekyll, pour le projet prendre le compe git sybelledom
 # minima
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
